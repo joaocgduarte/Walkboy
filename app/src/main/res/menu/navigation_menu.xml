@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_playlists"
+        android:icon="@mipmap/playlists"
+        android:title="Playlists" />
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@mipmap/search"
+        android:title="Search" />
+    <item
+        android:id="@+id/nav_recomendations"
+        android:icon="@mipmap/recommendations"
+        android:title="Recomendations" />
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@mipmap/exit"
+        android:title="Exit" />
+
+</menu>

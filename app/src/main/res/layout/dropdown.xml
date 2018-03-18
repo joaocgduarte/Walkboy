@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textAutoComplete"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#f9fff9"
+    android:gravity="center_vertical"
+    android:padding="10dp">
+
+</TextView>
