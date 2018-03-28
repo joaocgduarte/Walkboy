@@ -1,6 +1,6 @@
-<h1 align = "right">Walkboy</h1>
+<h1>Walkboy</h1>
 
-<p align = "right">Android application that allows the you to download Youtube content, convert it into MP3 and reproduce it.
+<p>Android application that allows the you to download Youtube content, convert it into MP3 and reproduce it.
 </p>
 
 ![license](https://img.shields.io/badge/License-MIT-green.svg)
