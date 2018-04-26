@@ -36,7 +36,6 @@ Two options:
 
 <p align = "center"><img src="https://i.imgur.com/ohjuH2J.png" data-canonical-src="https://i.imgur.com/ohjuH2J.png" width="250" height="430" /> <img src="https://i.imgur.com/tKZNoup.png" data-canonical-src="https://i.imgur.com/tKZNoup.png" width="250" height="430" /> <img src="https://i.imgur.com/d2NLgAY.png" data-canonical-src="https://i.imgur.com/d2NLgAY.png" width="250" height="430" /> <img src="https://i.imgur.com/BwlIt1v.png" data-canonical-src="https://i.imgur.com/BwlIt1v.png" width="250" height="430" /> <img src="https://i.imgur.com/EyszwXy.png" data-canonical-src="https://i.imgur.com/EyszwXy.png" width="250" height="430" /> <img src="https://i.imgur.com/8sqLQEf.png" data-canonical-src="https://i.imgur.com/8sqLQEf.png" width="250" height="430" /> <img src="https://i.imgur.com/euCqmCG.png" data-canonical-src="https://i.imgur.com/euCqmCG.png" width="250" height="430" /> </p>
 
-Sorry for the bad quality!
 
 ## Usage
 
